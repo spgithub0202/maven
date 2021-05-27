@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
+      <class name="com.testscripts.actitime.Test2"/>
       <class name="com.testscripts.actitime.TESTActitimeLogin"/>
     </classes>
   </test> <!-- Test -->
